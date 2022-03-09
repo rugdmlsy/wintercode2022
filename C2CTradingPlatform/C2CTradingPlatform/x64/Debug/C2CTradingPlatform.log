@@ -1,0 +1,43 @@
+﻿  admin.cpp
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\admin.cpp(63,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\admin.cpp(65,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\admin.cpp(69,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  file.cpp
+  init.cpp
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(17,14): error C2653: “totalstate”: 不是类或命名空间名称
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,19): error C2248: “userMsg::ID”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(10): message : 参见“userMsg::ID”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,41): error C2248: “userMsg::name”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(11): message : 参见“userMsg::name”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,65): error C2248: “userMsg::contactInfo”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(13): message : 参见“userMsg::contactInfo”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(182,33): error C2248: “userMsg::balance”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(15): message : 参见“userMsg::balance”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(182,50): error C2248: “userMsg::addr”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(14): message : 参见“userMsg::addr”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+  user.cpp
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(17,14): error C2653: “totalstate”: 不是类或命名空间名称
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,19): error C2248: “userMsg::ID”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(10): message : 参见“userMsg::ID”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,41): error C2248: “userMsg::name”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(11): message : 参见“userMsg::name”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(181,65): error C2248: “userMsg::contactInfo”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(13): message : 参见“userMsg::contactInfo”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(182,33): error C2248: “userMsg::balance”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(15): message : 参见“userMsg::balance”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(182,50): error C2248: “userMsg::addr”: 无法访问 private 成员(在“userMsg”类中声明)
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(14): message : 参见“userMsg::addr”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.h(9): message : 参见“userMsg”的声明
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.cpp(196,35): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.cpp(561,43): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\wintercode\C2CTradingPlatform\C2CTradingPlatform\user.cpp(565,31): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
